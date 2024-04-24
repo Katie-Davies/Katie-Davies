@@ -17,6 +17,8 @@ I am Katie, a full-stack software developer with a background in Primary teachin
 
 I have recently graduated from Dev Academy Aotearoa bootcamp. An experience that not only taught me how to code but also how to work on a team project with mutiple layers, the importance of Agile roles and effectively communicating a need. 
 
+💻 Checkout my personal portfolio site here
+
 ✏️ I have recently started blogging about my experiences on this journey- [Medium](https://medium.com/@millerkatie1990)
 
  👩🏼‍💻 I’m currently working on my personal project DirtRider.
