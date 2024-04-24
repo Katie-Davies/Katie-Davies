@@ -1,5 +1,11 @@
-### Hi there 👋
+<!--
+<img width="700" height="200" src="https://github.com/Katie-Davies/Katie-Davies/assets/63078091/d62f447d-87b8-4b97-a9b4-d6589e2be607">
+-->
+![](https://github.com/Katie-Davies/Katie-Davies/assets/63078091/d62f447d-87b8-4b97-a9b4-d6589e2be607)
 
+
+ 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 <!--
 **Katie-Davies/Katie-Davies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
