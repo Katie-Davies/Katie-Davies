@@ -11,11 +11,16 @@
 ![react router](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![react router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router)
 
+
+
+
 Hey there!
 
 I am Katie, a full-stack software developer with a background in Primary teaching. 
 
 I have recently graduated from Dev Academy Aotearoa bootcamp. An experience that not only taught me how to code but also how to work on a team project with mutiple layers, the importance of Agile roles and effectively communicating a need. 
+
+I am excited to begin collaborating with others on exciting projects where I can continue to consolidate and grow my skills as a developer!
 
 💻 Checkout my personal portfolio site here
 
@@ -25,10 +30,12 @@ I have recently graduated from Dev Academy Aotearoa bootcamp. An experience that
  
  🌱 I’m currently learning PostgreSql, MongoDB and implementing Azure Ad.
 
+#### Contact 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katie-davies-36351b275/)
+
+
 
 ### “Develop a passion for learning. If you do, you will never cease to grow.” — Anthony J. D’Angelo
-
-
 <!--
 **Katie-Davies/Katie-Davies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
