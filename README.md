@@ -28,10 +28,11 @@ I am excited to begin collaborating with others on exciting projects where I can
 
  👩🏼‍💻 I’m currently working on my personal project DirtRider where I am building a platform to allow people to rent out their dirtbikes. I am looking at how to implement Azure AD B2C instead of Auth0. 
  
- 🌱 My learning path at the moment: 
-     * CS50's Introduction to Computer Science - Harvard
-     * PostgreSql - FullStack Career path Codecademy
-     * The common sense guide to data structures and algorithms 
+ 🌱 My learning path at the moment:
+ 
+* CS50's Introduction to Computer Science - Harvard
+* PostgreSQL - FullStack Career path Codecademy
+
 
 #### Contact 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katie-davies-36351b275/)
