@@ -12,7 +12,6 @@
 ## Tech Stack 
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-lightgrey?style=flat&logo=express)](https://expressjs.com/)
-[![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql)](https://www.postgresql.org/)
 ![react router](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![react router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router)
 ![github](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)
@@ -21,6 +20,7 @@
 ![jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+<!--[![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql)](https://www.postgresql.org/)-->
 
 Hey there!
 
