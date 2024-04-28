@@ -2,16 +2,24 @@
 ![](https://github.com/Katie-Davies/Katie-Davies/assets/63078091/d62f447d-87b8-4b97-a9b4-d6589e2be607)
 
 
-
+## Languages 
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+![HTML](	https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+
+
+## Tech Stack 
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-lightgrey?style=flat&logo=express)](https://expressjs.com/)
 [![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql)](https://www.postgresql.org/)
 ![react router](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![react router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router)
-
-
+![github](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwind-38bdf9?style=flat&logo=tailwindcss&logoColor=white)
+![sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) 
+![jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
+![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 
 Hey there!
