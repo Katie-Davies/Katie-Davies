@@ -37,8 +37,7 @@ I am excited to begin collaborating with others on exciting projects where I can
  👩🏼‍💻 I’m currently working on my personal project DirtRider where I am building a platform to allow people to rent out their dirtbikes. I am looking at how to implement Azure AD B2C instead of Auth0. 
  
  🌱 My learning path at the moment:
- 
-* CS50's Introduction to Computer Science - Harvard
+* Microsoft Student Accelerator - Phase 1 Software Developer 
 * PostgreSQL - FullStack Career path Codecademy
 
 
@@ -49,6 +48,7 @@ I am excited to begin collaborating with others on exciting projects where I can
 
 ### “Develop a passion for learning. If you do, you will never cease to grow.” — Anthony J. D’Angelo
 <!--
+* CS50's Introduction to Computer Science - Harvard
 **Katie-Davies/Katie-Davies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
