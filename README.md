@@ -30,7 +30,7 @@ I have recently graduated from Dev Academy Aotearoa bootcamp. An experience that
 
 I am excited to begin collaborating with others on exciting projects where I can continue to consolidate and grow my skills as a developer!
 
-💻 Checkout my personal portfolio site here
+💻 Checkout my personal portfolio site [here](https://katie-daviesdev.vercel.app/)
 
 ✏️ I have recently started blogging about my experiences on this journey- [Medium](https://medium.com/@millerkatie1990)
 
