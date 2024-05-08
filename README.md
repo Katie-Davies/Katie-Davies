@@ -19,6 +19,7 @@
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) 
 ![jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
 <!--[![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql)](https://www.postgresql.org/)-->
 
