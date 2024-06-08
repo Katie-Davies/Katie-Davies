@@ -38,8 +38,9 @@ I am excited to begin collaborating with others on exciting projects where I can
  👩🏼‍💻 I’m currently working on my personal project DirtRider where I am building a platform to allow people to rent out their dirtbikes. I am looking at how to implement Azure AD B2C instead of Auth0. 
  
  🌱 My learning path at the moment:
-* Microsoft Student Accelerator - Phase 1 Software Developer 
-* PostgreSQL - FullStack Career path Codecademy
+* Microsoft Student Accelerator - Phase 1 Software developer
+* C# on CodeCademy 
+
 
 
 #### Contact 
