@@ -40,6 +40,8 @@ I am excited to begin collaborating with others on exciting projects where I can
  🌱 My learning path at the moment:
 * Microsoft Student Accelerator - Phase 1 Software developer
 * C# on CodeCademy 
+* Deploying on Azure Webapps
+
 
 
 
