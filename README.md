@@ -13,7 +13,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-lightgrey?style=flat&logo=express)](https://expressjs.com/)
 ![react ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
-![react router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![React Query](https://img.shields.io/badge/-ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind-38bdf9?style=flat&logo=tailwindcss&logoColor=white)
