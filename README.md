@@ -18,6 +18,7 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind-38bdf9?style=flat&logo=tailwindcss&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) 
+![RESTful API](https://img.shields.io/badge/RESTful_API-%230081CB.svg?style=flat&logo=RESTapi&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
@@ -25,6 +26,7 @@
 ![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
+
 
 
 
