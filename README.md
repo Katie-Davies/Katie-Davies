@@ -12,14 +12,21 @@
 ## Tech Stack 
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-lightgrey?style=flat&logo=express)](https://expressjs.com/)
-![react router](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![react ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![react router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router)
+![React Query](https://img.shields.io/badge/-ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind-38bdf9?style=flat&logo=tailwindcss&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) 
 ![jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Knex](https://img.shields.io/badge/-Knex.js-D26B38?style=flat&logo=knexdotjs&logoColor=white)
+![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
+
+
 
 <!--[![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql)](https://www.postgresql.org/)-->
 
