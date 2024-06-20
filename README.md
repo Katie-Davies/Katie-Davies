@@ -44,7 +44,7 @@ I am excited to begin collaborating with others on exciting projects where I can
 
 ✏️ I have recently started blogging about my experiences on this journey- [Medium](https://medium.com/@millerkatie1990)
 
- 👩🏼‍💻 I’m currently working on my personal project DirtRider where I am building a platform to allow people to rent out their dirtbikes. I am looking at how to implement Azure AD B2C instead of Auth0. 
+ 👩🏼‍💻 I’m currently working on my personal project DirtRider where I am building a platform to allow people to rent out their dirtbikes. I am looking at how to implement Socket.io for chat component and Stripe for payment. 
  
  🌱 My learning path at the moment:
 * Microsoft Student Accelerator - Phase 2 Software developer
