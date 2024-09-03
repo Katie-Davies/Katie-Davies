@@ -12,7 +12,7 @@
 
 ## Tech Stack 
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)](https://nodejs.org/)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 [![Express](https://img.shields.io/badge/Express-lightgrey?style=flat&logo=express)](https://expressjs.com/)
 ![react ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
@@ -20,7 +20,7 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind-38bdf9?style=flat&logo=tailwindcss&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-%230081CB.svg?style=flat&logo=RESTapi&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
