@@ -9,7 +9,7 @@ I have recently graduated from Dev Academy Aotearoa bootcamp. An experience that
 
 I am excited to begin collaborating with others on exciting projects where I can continue to consolidate and grow my skills as a developer!
 
-💻 Checkout my personal portfolio site [here](https://katie-daviesdev.vercel.app/)
+ Checkout my personal portfolio site [here](https://katie-daviesdev.vercel.app/)
 
 ## 👩🏼‍💻  Current Projects
 *  [DirtRider](https://github.com/Katie-Davies/DirtRider) - I am building a platform to allow people to rent out their dirtbikes. I am looking at how to implement Socket.io for chat component and Stripe for payment.
@@ -23,7 +23,7 @@ I am excited to begin collaborating with others on exciting projects where I can
 * C# on CodeCademy
 * Consolidating my Unit testing
   
-## Tech Stack 
+## 💻 Tech Stack 
 ### Languages 
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
