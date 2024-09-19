@@ -39,20 +39,24 @@ Hey there!
 
 I am Katie, a full-stack software developer with a background in Primary teaching. 
 
-I have recently graduated from Dev Academy Aotearoa bootcamp. An experience that not only taught me how to code but also how to work on a team project with mutiple layers, the importance of Agile roles and effectively communicating a need. 
+I have recently graduated from Dev Academy Aotearoa bootcamp. An experience that not only taught me how to code but also how to work on a team project with mutiple layers, the importance of Agile roles and effectively communicating a need. I have a passion for making projects that will help others, particularly parents of young children- Checkout MealEasy and Projectbased Learning. My role as a STEAM teacher in Primary was to ignite a passion within our young females to pursue a career in STEAM, I am now praticing what I preach and taking on the challenge of pursuing my own career as a software developer. 
 
 I am excited to begin collaborating with others on exciting projects where I can continue to consolidate and grow my skills as a developer!
 
 💻 Checkout my personal portfolio site [here](https://katie-daviesdev.vercel.app/)
 
-✏️ I have recently started blogging about my experiences on this journey- [Medium](https://medium.com/@millerkatie1990)
-
- 👩🏼‍💻 I’m currently working on my personal project DirtRider where I am building a platform to allow people to rent out their dirtbikes. I am looking at how to implement Socket.io for chat component and Stripe for payment. 
+## 👩🏼‍💻  Current Projects
+*  [DirtRider]([url](https://github.com/Katie-Davies/DirtRider)) - I am building a platform to allow people to rent out their dirtbikes. I am looking at how to implement Socket.io for chat component and Stripe for payment.
+* [Playbased Learning]([url](https://github.com/Katie-Davies/Playbased-MicrosoftStudentACC)) - An app to help provide parents with a range of activities based on their childs age and the materials they have available. My first app using .Net as Backend and Azure SQL database. 
+* 
  
  🌱 My learning path at the moment:
-* Microsoft Student Accelerator - Phase 2 Software developer
-* C# on CodeCademy 
-* Deploying on Azure Webapps
+ 
+* Azure - Azure SQL Database, BLOB storage, deploying on Web apps
+* Algorithms and Data Structures
+* C# on CodeCademy
+* Consolidating my Unit testing
+  
 
 
 
