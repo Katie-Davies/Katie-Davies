@@ -37,7 +37,7 @@ I am excited to begin collaborating with others on exciting projects where I can
 ![react ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![React Query](https://img.shields.io/badge/-ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)
+
 ![Tailwindcss](https://img.shields.io/badge/Tailwind-38bdf9?style=flat&logo=tailwindcss&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
@@ -52,13 +52,15 @@ I am excited to begin collaborating with others on exciting projects where I can
 
 ### Testing 
 ![jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
-![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
 ![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
 ### Authorisation
 ![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
 
-
+### Tools 
+![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)
 
 #### Contact 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katie-davies-36351b275/)
