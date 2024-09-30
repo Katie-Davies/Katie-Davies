@@ -12,7 +12,7 @@ I am excited to begin collaborating with others on exciting projects where I can
  Checkout my personal portfolio site [here](https://katie-daviesdev.vercel.app/)
 
 ## 👩🏼‍💻  Current Projects
-*  [DirtRider](https://github.com/Katie-Davies/DirtRider) - I am building a platform to allow people to rent out their dirtbikes. I am looking at how to implement Socket.io for chat component and Stripe for payment.
+*  [DirtRider](https://github.com/Katie-Davies/DirtRider) - I am building a platform to allow people to rent out their dirtbikes. I am looking at how to implement Socket.io for chat component and using Multer for image file uploads.
 * [Playbased Learning](https://github.com/Katie-Davies/Playbased-MicrosoftStudentACC) - An app to help provide parents with a range of activities based on their childs age and the materials they have available. My first app using .Net as Backend and Azure SQL database. 
   
  
