@@ -21,7 +21,7 @@ I am excited to begin collaborating with others on exciting projects where I can
 * Azure - Azure SQL Database, BLOB storage, deploying on Web apps
 * Algorithms and Data Structures
 * C# on CodeCademy
-* Consolidating my Unit testing
+* Consolidating Unit Testing
   
 ## 💻 Tech Stack 
 ### Languages 
