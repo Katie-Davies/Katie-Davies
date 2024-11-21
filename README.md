@@ -53,13 +53,6 @@ I am excited to begin collaborating with others on exciting projects where I can
 ![jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
-### Authorisation
-![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
-
-### Tools 
-![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)
-
 #### Contact 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katie-davies-36351b275/)
 
@@ -69,6 +62,13 @@ I am excited to begin collaborating with others on exciting projects where I can
 <!--
 * CS50's Introduction to Computer Science - Harvard
 **Katie-Davies/Katie-Davies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Authorisation
+![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
+
+### Tools 
+![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)
 
 Here are some ideas to get you started:
 
