@@ -21,6 +21,7 @@ I am excited to begin collaborating with others on exciting projects where I can
 * Azure - Azure SQL Database, BLOB storage, deploying on Web apps
 * Algorithms and Data Structures
 * C# on CodeCademy
+* .Net
 * Consolidating Unit Testing
   
 ## 💻 Tech Stack 
@@ -32,7 +33,6 @@ I am excited to begin collaborating with others on exciting projects where I can
 
 ### Framworks and Libraries
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)](https://nodejs.org/)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 [![Express](https://img.shields.io/badge/Express-lightgrey?style=flat&logo=express)](https://expressjs.com/)
 ![react ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
@@ -65,6 +65,8 @@ I am excited to begin collaborating with others on exciting projects where I can
 
 ### Authorisation
 ![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 
 ### Tools 
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
