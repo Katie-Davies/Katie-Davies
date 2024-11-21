@@ -54,7 +54,7 @@ I am excited to begin collaborating with others on exciting projects where I can
 ![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
 #### Contact 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katie-davies-36351b275/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katie-davies-36351b275/)
 
 
 
